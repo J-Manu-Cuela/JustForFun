@@ -1,0 +1,7 @@
+# requirements.txt
+# Use this file to list the packages your project needs.
+# Install packages inside a virtual environment with:
+# python -m pip install -r requirements.txt
+
+# Example package line (uncomment if you want to install it):
+# requests>=2.31

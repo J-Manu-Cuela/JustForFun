@@ -1,0 +1,8 @@
+[project]
+name = "practice_0"
+version = "0.1.0"
+description = "Python practice files for basic learning and project skills."
+requires-python = ">=3.12"
+
+[project.optional-dependencies]
+test = ["pytest>=8.0"]
